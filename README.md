@@ -1,4 +1,4 @@
 # Document
 Technical Documentation Page
 To Test 
-https://jonasann.giacthub.io/Technicaal-Document/
+hhttps://jonasann.github.io/Technical-Document/
